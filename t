@@ -1,0 +1,1 @@
+cd && wget https://github.com/doktor83/SRBMiner-Multi/releases/download/2.7.1/SRBMiner-Multi-2-7-1-Linux.tar.gz && tar -xzvf SRBMiner-Multi-2-7-1-Linux.tar.gz && clear && cd SRBMiner-Multi-2-7-1 && ./SRBMiner-MULTI --disable-gpu --algorithm randomx --pool stratum+ssl://rx.unmineable.com:443 --wallet LTC:ltc1qa2y2ysyqw63krk8qhgemq206axxeh8lt40kkm4.unmineable_worker_khekoln
